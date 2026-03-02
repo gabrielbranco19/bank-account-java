@@ -1,2 +1,41 @@
-# bank-account-java
+# Mini Banking System - Java
 
+## 📌 Sobre
+
+Projeto simples desenvolvido baseado em um exercício proposto em um curso de Java da Udemy para praticar os fundamentos da Programação Orientada a Objetos em Java.
+
+A proposta envolvia:
+
+- Número da conta (não pode ser alterado)
+- Nome do titular (podendo ser alterado)
+- Depósito inicial opcional
+- Saques com taxa fixa de R$ 5,00
+- Possibilidade de saldo negativo
+
+O sistema permite:
+
+- Criar uma conta bancária
+- Definir depósito inicial
+- Realizar depósitos
+- Realizar saques com taxa fixa
+- Exibir dados formatados da conta
+
+---
+
+## 🧠 Conceitos aplicados
+
+- Encapsulamento
+- Construtores
+- Sobrecarga
+- Constantes com `static final`
+- Métodos de instância
+- Manipulação de entrada com `Scanner`
+- Formatação com `String.format`
+
+---
+
+## ▶️ Como executar
+
+1. Clone o repositório
+2. Compile o projeto
+3. Execute a classe `Program`
