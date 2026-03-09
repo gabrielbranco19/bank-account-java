@@ -31,3 +31,9 @@ O sistema permite:
 - Métodos de instância
 - Manipulação de entrada com `Scanner`
 - Formatação com `String.format`
+
+---
+
+## 📝 Aprendizados (atualizado dia 08/03/2026)
+
+- Após assistir a correção que o professor fez, percebi que fiz o uso do 'get' apenas para o acholder (nome do titular). Mas aprendi e entendi que precisava também do 'set' para o acholder, assim como 'get' para o number (sem 'set' pois o exercício propôs que o número não deve ser mudado) e 'get' para o balance (visto que o valor do saldo só muda com depositos e saques).
